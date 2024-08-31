@@ -1,7 +1,9 @@
 # snake_concole_prototype
 
 
-<h1 aligh="center">DISCLAIMER</h1>
+<h1 aligh="center">DISCLAIMER
+Read before compiling this code
+                at your IDE.</h1>
 <h1 aligh="center">Read before compiling this code
                 at your IDE.</h1>
 
