@@ -4,8 +4,6 @@
 <h1 aligh="right">DISCLAIMER!
 Read before compiling this code
                 at your IDE.</h1>
-<h1 aligh="center">Read before compiling this code
-                at your IDE.</h1>
 
 
 <h1 aligh="center">This code is working as a prototype.
