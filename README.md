@@ -9,6 +9,6 @@ problems in my code which will help avoid the memory leak.</h3>
 <h4 align="left">This code is working as a prototype.
 It's not good at all and has bugs which should get fixed.</h4>
                 
-
+---
 <p align="center">Bugs which should be fixed</p>
 - optimization of using std::vector in this code!!!
