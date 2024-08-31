@@ -1,9 +1,9 @@
 # snake_concole_prototype
 
 
-<h1 aligh="right">DISCLAIMER!
+<p aligh="right">DISCLAIMER!
 Read before compiling this code
-                at your IDE.</h1>
+                at your IDE.</p>
 
 
 <h1 aligh="center">This code is working as a prototype.
