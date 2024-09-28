@@ -13,3 +13,5 @@ It's not good at all and has bugs which should get fixed.</h4>
 ---
 <p align="left">Bugs which should be fixed:</p>
 - optimization of using std::vector in this code!!!
+
+<p align="center"><img src="screenshot_1.png"></p>
