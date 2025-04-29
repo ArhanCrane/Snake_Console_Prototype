@@ -4,9 +4,6 @@
 #include "snake.h"
 #include "food.h"
 
-//https://youtu.be/HcESuwmlHEY?si=LAH8M43zFzTtsyLj
-// This one should help to optimize std::vector
-
 
 int main() {
 	char key_{'s'};
